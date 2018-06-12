@@ -1,0 +1,23 @@
+Scientists have found a new way to work with heterogeneous catalysts, which are key chemical drivers in the development of energy technology and the production of industrial chemicals.
+
+The new approach offers a detailed glimpse of mechanisms at the molecular level featuring two-atom catalysts and opens the door to improving reactions for an array of catalysts — including iridium, a rare element whose oxidized form is one of the best catalysts for splitting water molecules to generate H 2 and O 2 .
+
+In addition, the discovery may have practical applications for producing fuels with sustainable solar energy.
+
+Catalysis is the process of increasing the rate of a chemical reaction by introducing an additional chemical, known as a catalyst. The catalyst opens a new pathway to connect reactants, yet is not itself consumed.
+
+Heterogeneous catalysis is a form of catalysis in which the phase of the catalyst — usually solid — differs from that of the reactants. Studying heterogeneous catalysts is difficult, scientists say, due to the ambiguity of the molecular sites where the reactions occur.
+
+A research team that included scientists from Yale, Boston College, Tsinghua University, the University of California-Irvine, Tufts, Lawrence Berkeley National Laboratory, Forschungszentrum Julich, and Nanjing University addressed this challenge in a new study published online March 5 in the Proceedings of the National Academy of Sciences.
+
+The researchers developed a straightforward, stable approach for preparing iridium in both single-atom and dual-atom form, on an iron oxide surface. After confirming the catalytic reaction sites with electron microscopy, the researchers were able to conduct a detailed study of mechanisms involved in catalytic reactions.
+
+“This will enable us to deepen our understanding of catalytic reactions and develop more robust and efficient catalysts,” said Ke Yang, a Yale postdoctoral associate and co-first author of the study. “In this study, for example, we demonstrated that catalysts with dual iridium atoms work much better than single-atom iridium to split water. We were able to make full use of every iridium atom.”
+
+The iron oxide surface for the reaction has additional benefits, according to the researchers. It has the ability to absorb sunlight and drive the chemical reaction with solar energy.
+
+Corresponding authors for the study are Yale chemistry professors Victor Batista and Gary Brudvig, and Dunwei Wang of Boston College. Yanyan Zhao of Boston College is co-first author of the study; Yale’s team also included graduate student Kelly Materna.
+
+“This is a highly innovative way to craft chemical surfaces with better control over their structure and catalytic functionality,” Batista said. “A wide range of applications, including energy storage, electronics, catalysis, and sensing could benefit from such a simple approach that enables surface design at the atomic level.”
+
+Batista is a faculty member of the Yale Department of Chemistry and the Yale Energy Sciences Institute. Brudvig is chair of Yale’s Department of Chemistry and director of the Yale Energy Sciences Institute.

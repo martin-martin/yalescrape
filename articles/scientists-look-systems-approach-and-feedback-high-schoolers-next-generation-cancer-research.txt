@@ -1,0 +1,29 @@
+By Jon Atherton
+
+The broadest cross-section of scholars gathered last week at Yale’s West Campus to share their novel science as part of Cancer Systems Biology at Yale - or CaSB@Yale - a research center funded by the National Cancer Institute to address fundamental questions at the core of cancer biology.
+
+The 2018 Systems Biology Institute Symposium brought faculty from the Yale School of Medicine, the Graduate School of Arts & Sciences, and the School of Engineering & Applied Science, together with CaSB@Yale collaborators from Emory University and University of Connecticut – all to better understand how cancer cells reach an aggressive state and cause damage to our body tissue.
+
+Over three days, the event included the “Flipped Science Fair: CaSB@Yale” and a workshop on microfluidic devices to share research findings and expertise.
+
+Welcoming participants to the annual symposium, Andre Levchenko highlighted the new paradigm in cancer research, where scientists are combining evolutionary biology, nanotechnologies and synthetic biology with approaches from physics and math to explore the complex networks, not just single genes or molecules, to understand fundamental cancer biology and find new treatments.
+
+“We are here to understand what happens when cancer switches from growth at the primary site to expansion to other organs and local invasive spread – the behaviors that determine “grow or go” mechanisms of aggressive cancer cell behavior,” said Levchenko, the John C. Malone Professor of Biomedical Engineering and director of the Yale Systems Biology Institute.
+
+Levchenko also leads the CaSB@Yale center, in which researchers are studying the underlying ways in which a cell population – particularly in aggressive glioblastoma multiforme (brain cancer) and melanoma (skin cancer) – invades or proliferates, and how individual cells interact and signal to each other.
+
+“The NCI cancer systems biology program is doing a tremendous amount of good across the country,” said keynote speaker Douglas Lauffenburger, the Ford Professor of Biological Engineering, Chemical Engineering, and Biology at MIT, whose talk focused on “The Systems Biology of Phenotypic Switches: Cancer Invasion and Beyond.”
+
+How a cell or group of cells alters its behavior is not completely understood — yet more than 90% of cancer-related mortality is linked to invasive and metastatic spread of cancer cells from the primary tumor.
+
+As well as identifying new targets for therapeutic intervention and the development of new drugs targeting invading cells, the CaSB@Yale initiative also focuses on disseminating new research to the broadest possible community.
+
+Before the symposium, over 30 regional high school students from freshman through senior year took part in the “Flipped Science Fair: CaSB@Yale” where they judged science presentations from grad students and post-docs from partner labs.
+
+“Our presenters received multiple rounds of feedback and worked really hard to prepare for the event,” said Dorottya Noble, Associate Director at Yale’s Raymond and Beverly Sackler Institute. “The student judges were fearless in giving the most intuitive comments on th e science presented to them. Their feedback has made a real difference to the way our grad students and post-docs communicate their science to a board audience.”
+
+Thanks to the coordination efforts of Yale’s Pathways to Science program, high school students came from across the region, including schools in Amity, Cheshire, Clinton, Hamden, New Haven, New London, North Haven, and West Haven as well as some private schools.
+
+Poster prizes were awarded to Jack Moen (1st), Jaymin Patel (2nd), and Maria Kochugaeva (3rd) of the Yale Systems Biology Institute.
+
+With a focus on research technology, the final day focused on Microfluidics, the scientific study of the behavior of fluids through micro-channels that are just a fraction of the width of a human hair. The use of this powerful technology enables CaSB@Yale researchers to collect high throughput data that captures important variability in individual cells. The workshop featured a lecture on the design, fabrication, and uses of microfluidic devices by Rong Fan, Associate Professor of Biomedical Engineering at Yale, and lab demonstrations and scientific discussions led by William Jiang, Eric Chu and Yanxiang Deng. Research Support Specialist Lei Wang further illustrated the fabrication process by hosting a tour of the recently opened West Campus Cleanroom facility.

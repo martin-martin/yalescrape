@@ -1,0 +1,19 @@
+Looking at the microbial communities that grow on students’ desks, a team of Yale researchers found that the bacteria and fungi overwhelmingly came from the children sitting at the desks. They also found that, even after a desk cleaning, the microbes were back in full force within a few days.
+
+The results, published in the Journal of Applied Microbiology, suggest that in times of outbreaks or for children sensitive to allergens, school officials should consider more rigorous desk-cleaning practices.
+
+The research team in the lab of Jordan Peccia, the Thomas E. Golden, Jr. Professor of Chemical & Environmental Engineering, analyzed samples from the surfaces of classroom desks from three Connecticut schools, grades 7 to 12, in one school district. Each desk was tested before cleaning and then tested five times over a period of 21 days during the school year.
+
+Analyses of samples taken 30 minutes after the desks were cleaned found that only about half of the bacteria and fungi were cleared. Within two to three days, the microbial communities were as plentiful as before the cleaning. Also, their makeup was close to what was found in the initial sample. Between 70 to 80 percent of the microbes were of human origin - specifically, from the skin, mouth, and gut.
+
+Sarah E. Kwan, a Ph.D. candidate in Peccia’s lab and lead author of the study, said they were surprised to find that there was almost no change in the microbial makeup over all of the samples.
+
+“That means the bacteria and fungi are coming from one dominant source - humans,” she said. “It’s not coming down from the air, not from environmental factors - the kids at the desks are depositing the microbes on the desk.”
+
+The desks, used by multiple students each day, are normally washed once per semester.
+
+“That means these desks are a tremendous vehicle for the exposure of one person’s microbiome to another,” Kwan said. “That might not mean anything if the students are healthy and have a good immune system, but it could have a profound effect on the health of children with compromised immune systems, or if there is some kind of outbreak in the school.”
+
+The good news is that, under normal circumstances, parents of children in schools shouldn’t worry too much - exposure to microbes can even be beneficial. However, other studies have shown a correlation between the cleanliness of classrooms and how frequently students are out of school due to illness. Kwan said, schools experiencing a viral outbreak or that have students with certain health conditions should consider more frequent desk cleanings.
+
+To test the samples, the researchers used a process known as quantitative polymerase chain reaction (qPCR) to determine the total number of bacteria, fungi, and human cells in each sample. Then, with next-generation DNA sequencers, they determined the specific types of bacteria and fungi. It’s a powerful analytical tool, but not an easy one to use. The Peccia lab is currently working on a cost-effective and convenient way to test on site the cleanliness of desks.

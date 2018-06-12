@@ -1,0 +1,115 @@
+As a molecular biophysics and biochemistry major, Yale sophomore Brennan Carman has encountered websites and online course materials that relay scientific information via graphs, diagrams, and pictures. For Carman, who is visually impaired and uses screen-reading or magnifying software, accessing that information can take double the time to get through — and often longer.
+
+It thus comes as a relief to Carman and hundreds of other Yale students and staff members that the university has made a commitment to continue its work to make university websites and web applications accessible to people with disabilities.
+
+In January, Provost Ben Polak announced Yale’s new Web Accessibility Policy, which provides that staff and faculty members, as well as students, make the websites and other digital content they create or manage for university business accessible to people with visual, cognitive, learning, neurological, physical, or speech disabilities. The policy states that as of March 1 any new content entered on a university website be accessible, and that by Sept. 1, any new, redesigned, or revised websites be accessible. This policy also applies to websites that are maintained or updated by a vendor.
+
+To make for a smooth transition, the university has been hosting information sessions about the policy and training workshops for those who manage digital content.
+
+At a time when technology is more important than ever, taking steps to make our online presence more accessible is essential to Yale’s mission. President Peter Salovey
+
+“Creating a more accessible Yale is one of my goals as president,” said President Peter Salovey, who wrote a statement about the initiative. “Yale’s mission is to create and disseminate knowledge. Digital accessibility means we can share our knowledge with more people. At a time when technology is more important than ever, taking steps to make our online presence more accessible is essential to fulfilling Yale’s mission.”
+
+Teams of Yale administrators, staff members, and students have been working for several years toward this goal. In 2015, the Provost’s Office formed a Technology Accessibility Working Group (chaired by Susan Gibbons, university librarian and deputy provost) to make recommendations regarding digital accessibility.
+
+Throughout the process, students, faculty and staff members with disabilities have had the opportunity to share their experiences about using digital content and to communicate how their needs can best be served, according to Lisa Sawin, director of web technologies for Information Technology Services (ITS), and Judy York, director of the Resource Office on Disabilities, who both serve on the Technology Accessibility Working Group.
+
+An Accessibility Steering Committee has been working to increase web accessibility for several years. The committee helps to oversee compliance with the new policy and offer support to members of the campus community toward that end. The committee’s first priority has been to improve the accessibility of websites that are central to the student experience.
+
+I like to say ‘it takes a village’ to make Yale have a digitally accessible campus. Lisa Sawin
+
+“I like to say ‘it takes a village’ to make Yale have a digitally accessible campus,” says Sawin. “It involves administrative staff who enter content on departmental websites; it involves developers who create and maintain applications that keep the campus running; it involves faculty members and support staff who are entering content on [the classroom teaching platforms] Canvas and CoursePress; and it involves the Office of Procurement ensuring our contracts hold vendors accountable to strong accessibility standards, to name just some.”
+
+What does the new policy mean?
+
+As part of the new policy, the university references the World Wide Web Consortium’s Web Content Accessibility 2.0 level AA guidelines (known as WCAG), which details a number of principles and best practices to make content accessible. These include:
+
+providing alternative text (such as descriptive captions) for images;
+
+providing text transcripts for audio recordings and videos;
+
+creating clear and consistent headings that are easily navigated;
+
+including headers and captions for illustrative tables;
+
+using content that does not require users to rely on color or sound to get information or navigate (such as “you may begin after the beep” or “highlighted in blue”);
+
+providing informative descriptions of any links within the text; and
+
+offering menus and other navigation tools to help users easily find what they need.
+
+The guidelines were created in consideration of the range of assistive technologies — such as screen readers, magnification tools, voice recognition software, keyboard adaptations, and other software and devices — used by people with disabilities.
+
+Download the Accessibility Checklist for Web Content Editors (PDF)
+
+York notes that when creating or uploading digital content, people may consider whether it can be navigated by people with visible impairments, but may not think about whether the information they are trying to convey is easily accessible to someone with such invisible impairments as color-blindness or a seizure disorder, or to those who suffer from temporary conditions such as migraines or a concussion, for instance. Quickly flashing images or moving patterns, for example, can trigger a seizure in someone with photosensitive epilepsy, she explains.
+
+Over 1,000 Yale students have registered with the Resource Office on Disabilities, but there are hundreds more students, as well as faculty and staff members, on the campus who may not have publicly identified themselves as persons with disabilities, York notes.
+
+Why does it matter?
+
+Recent Yale graduate Sarah Rose ’17, who is dyslexic, knows well the difficulties people can face when encountering class readings or other material in formats that are incompatible with text-to-voice applications or software such as one she used.
+
+“I think it’s great that Yale is adding this policy and trying to make the digital content more accessible,” says Rose. “It means students will be able to more easily complete the readings necessary to engage in classes. It means more students will be able to spend more time learning and less time doing the technical aspects necessary to ensure they can learn.”
+
+Rose consulted with David Hirsch, director of academic IT strategy for the Center for Teaching and Learning, to help him with the center’s efforts to make online course content more accessible.
+
+“I’m working on systems to provide that the digital files that faculty are sharing through Canvas — whether books, journal articles, PowerPoint presentations, Excel sheets, and so on — are accessible to everyone,” says Hirsch, who serves on various university committees concerned with digital accessibility.
+
+For instance, he explains, a faculty member might scan a book chapter or article as an image, which is impossible for students with screen readers to access. However, if the faculty member uses a scanner’s optical character recognition settings, the material can be read by assistive technology devices. Likewise, there are simple steps that can be followed to make Microsoft Word files, PowerPoint presentations, and PDFs accessible, Hirsch notes.
+
+‘ Accessibility thinking’
+
+Hirsch is especially excited that the Center for Teaching and Learning has recently launched a pilot of the software called Ally, which provides students with alternative versions of any file uploaded into their Canvas course sites, on demand. These alternative files are typically more accessible to students than the original. Ally’s administrator dashboard also identifies files that are most likely to pose obstacles, which will aid in prioritizing support for the instructors who create and share those files.
+
+“Anything we can do to take the burden off students and other users of digital material is our priority,” says Hirsch. “Anybody who wants to be an effective communicator should ask themselves: Are there things I can do in the way I share my communication that would allow all members of my potential audience to access it the way they need to access it, rather than to assume that everyone is like me?
+
+“I call it ‘accessibility thinking,’ continues Hirsch. “That’s a culture change for most of us. But our goal is to communicate to a diversity of people, and the best communication can be received and manipulated by these individuals so it’s most effective for them. Eventually, we’ll get to a point where it’s just natural behavior for all of us.”
+
+Removing the roadblocks
+
+For Yale senior Joshua Slocum, who is hearing impaired, the new policy means that down the road, videos on Yale websites will have captioning or a transcript, so people like him will no longer have to guess what’s being said.
+
+A member of Disability Empowerment for Yale (DEFY), which advocates for members of the Yale community with disabilities, Slocum — who is majoring in molecular biochemistry and biophysics — says he has noticed that many science publications don’t take into account color blindness, a common impairment. He is glad that the WCAG guidelines put in place at Yale account for that and so many other disabilities.
+
+“In my science classes, where there is a heavy use of graphs, I sometimes forget myself that so much of the content can be a challenge for people with visual impairments,” says Slocum.
+
+Carman, who is also a member of DEFY, says Yale’s new policy is a big step forward.
+
+We are becoming a more technologically integrated society. It would be wonderful to see Yale take a place as a leader in [accessibility]. Brennan Carman
+
+“It’s important for an institution like Yale not only to do this but to be seen to do this. It’s a problem in higher education generally, and it’s a concern in society at large. We are becoming a more technologically integrated society. It would be wonderful to see Yale take a place as a leader in the goal toward accessibility.”
+
+Carman suggests an easy mantra for anyone who is creating or uploading digital content: to ask, whenever they do, “Is it available to everybody?”
+
+“Usually, people are not opposed to putting in the effort to make things accessible; they just hadn’t thought about it,” he explains. “Asking that question helps.”
+
+Creating a ‘level playing field’
+
+Yale College senior and DEFY president Benjamin Nadolsky, a wheelchair user who is dyslexic, notes that just as it has taken time for institutions to make the kind of physical adaptations that make his life easier, it will take a bit of time to fully realize a digitally accessible world, at Yale and elsewhere.
+
+“If we really want to create a diverse and open campus, then we have to make sure that everybody is able to participate, regardless of whatever accommodation they need,” Nadolsky says. “The way we start out doing that is by providing people with accessible resources they can use. If they aren’t there, how can we expect people to be on a level playing field and gain everything there is to gain at Yale?”
+
+Michael Vaughn, who recently joined the university as associate director of digital accessibility, says that when online content is made accessible for people with disabilities, everyone who interacts with that content ultimately benefits.
+
+“The easier it is to access, the simpler it is for everyone across the board,” he says. One example of this, he notes, is the audio captioning on platforms such as YouTube, which not only help those with hearing impairments, but allow anyone to watch a video without having the sound turned on in situations where it might not be feasible.
+
+An incremental process
+
+Creating a more digitally accessible campus will not happen overnight, but with the support of staff throughout the university creating training opportunities, online guidance, and hands-on consultation, Yale is making a real difference, says Sawin.
+
+“The more we make accessible, the better experience real human beings will have when interacting digitally,” she says. “If I make one PDF accessible, that means one blind person may have an easier time reading that PDF. Every little bit helps. Everybody has a hand, and everybody can make it better together.”
+
+In an ITS-hosted Content Editors Workshop she attended, Amber Garrard, senior manager in Yale’s Office of Sustainability, learned how small changes to the office’s website — such as the placement of headings or moving content to accessible platforms — can make a big difference to people with disabilities who visit the site.
+
+“The course helped me to rethink my approach to managing content, and I hope it will make our website more successful overall as a result,” says Garrard. “It was gratifying to learn that by following some simple steps, I can make my content significantly more accessible.”
+
+During the course, Garrard adds, she was exposed to a screen reader for the first time. “It was fascinating to learn how they change interaction with the content, and why using content tools appropriately makes a difference in whether someone reads through a webpage,” she says.
+
+For Garrard, creating accessible content is crucial to the wider university mission of fostering a diverse and inclusive sustainability movement. “To do so effectively, we must ensure that the information and resources we provide are as accessible as possible,” she says.
+
+Increasing digital accessibility in today’s highly technological world is “key to the university’s future success,” says Salovey.
+
+“With the potential to connect us to one another and to new opportunities, technology can accelerate the pace of discovery and understanding,” he says. “In order to harness the creative and educational power of technology, we must take steps so that all people will have access to online information and resources. Increasing digital accessibility at Yale is an important step in this direction.
+
+“Diversity and inclusion are pillars of the Yale community,” Salovey adds. “By making our websites and web applications more accessible to the broadest range of users, we can break down barriers and promote better understanding and communication. We all benefit from greater diversity — and accessibility — at Yale.”

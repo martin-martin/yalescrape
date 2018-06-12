@@ -1,0 +1,11 @@
+Scientists at the Yale Microbial Sciences Institute have cast new light on the role of timing in the spread of harmful bacteria.
+
+Alongside the list of genes and corresponding proteins that participate in a given biological activity, the scholars examined the circumstances in which proteins are made and the relative order of their production to understand the behavior of a cell.
+
+Writing in Science Signaling, Yale graduate student Xinyu Hong examined the bacterium Salmonella enterica serovar Typhimurium, a pathogen that causes gastroenteritis in humans and a variety of diseases in different animals of economic importance to humans.
+
+Their paper reports that Salmonella modified its outermost coating differently depending on the conditions that the bacterium experiences in its surroundings. Activation of the same genes with different kinetic signals elicited distinct modifications of the bacterial outer membrane.
+
+Alongside senior author Eduardo Groisman, the scholars are seeking to answer a fundamental biological question: How does an organism know when, where and for how long to turn a gene on or off? In the current study, the findings illustrate how bacteria can use a limited set of enzymes to generate a range of adaptations to different stimuli.
+
+By Jon Atherton

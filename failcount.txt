@@ -1,0 +1,8 @@
+ : http://ymm.yale.edu/spring2018/news
+ : http://ymm.yale.edu/autumn2017/news/chronicle/317511/
+ : http://medicine.yale.edu/news/article.aspx?id=
+ : http://housing.yale.edu/news/yale-housing-intent-2018-2019-due-march-20-2018
+ : http://housing.yale.edu/news/young-lungs-play-winner-tobacco-free-kids-poster-contest
+ : http://housing.yale.edu/news/yale-university-housing-fair-2018-all-are-welcome
+
+ 6 TOTAL ERRORS

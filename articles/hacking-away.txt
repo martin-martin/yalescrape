@@ -1,0 +1,23 @@
+“What are you up to this weekend, Alan?” I asked over breakfast on Friday morning.
+
+“I’m going to Brown for a hackathon!” A hackathon! I’ve been fascinated by the idea of hackathons since high school. Over the course of the last three years, I’ve been incredibly lucky to be really close friends with people studying all sorts of things. As Alan’s friend, I get to live vicariously through his escapades. So I asked him to write a blog for you to share his experience with a larger audience.
+
+Alan’s a junior Computer Science Major in Timothy Dwight College. Here at Yale, he organizes YHack, one of the largest hackathons on the east coast. Every year, they host over 1000 students from universities as close as Connecticut to ones as far as Thailand. When asked about how he first got interested in programming, he credits FIRST robotics in high school. Here’s what he has to say:
+
+Imagine 200 boxes of pizza stacked to the ceiling, enough air mattresses to fill two basketball courts, and over 1000 nylon “swag” bags full of T-shirts and other goodies. Imagine 1000 people, all in the same gigantic gym.
+
+Welcome to the world of hackathons.
+
+Despite its devious sounding name, hackathons are a mix between career fairs and coding competitions where student teams “hack” together a project to solve some task over the course of a weekend. In other words, a hackathon is defined simply by excitement, learning, innovation, and a lack of sleep.
+
+As a computer science major at Yale, I started going to hackathons as a freshman to apply what I’ve been learning into practice. There are many such hackathons, one almost every weekend. Outside of hackathons, my friends and I have gone to many other technology conferences like ones sponsored by CS 50 or the annual Grace Hopper conference for women in CS. The best part of events like these is that you can visit your friends at other universities, and the sponsors usually fully cover your travel.
+
+Although it’s partly a competition, it’s only as intense as you make it. At my first hackathon, I didn’t even end up submitting a project. There was always something to do that I just lost track of time. First, there was the mad dash for insomnia cookies, the treat of choice for late nights. Then, there was a workshop on React, a computer language I’ve always wanted to learn. Right after, my friend challenged me to a match of laser tag, and I’m not one to refuse a challenge. Just like that, the night quickly came and passed. Before I knew it, the outside was painted a rosy pink and sunlight started streaming in through the windows. An announcement said we were expected to demo our (yet unstarted) projects the next morning. Oops…luckily for me, that meant, I had more time to explore the other projects. And over the years, seeing these projects have blown my mind.
+
+I’ve seen a portable physical Braille reader, a water tester built for Flint, Michigan, and a chrome extension to filter out “fake news” on Facebook. It’s hard to imagine that these ideas can be made real in only 36 hours.
+
+Although not all problems can be solved in a day, preparing for hackathons has made me think about some of the current issues the world is facing today. Being at Yale has taught me to dig deeper than buzzword issues like “fake news” or the refugee crisis. What are the causes of these crises and what gave rise to them? Taking it one step further, how could I personally address them?
+
+At Yale, I’ve learned that it is my job to learn from both fellow Yalies and people of the greater world community. In the process of identifying potential projects, I read about a single mother who’s trapped in a cycle of eviction in urban Milwaukee and listened to my friend’s tales about families facing the effects of climate change in Kiribati.
+
+With that knowledge, at hackathons, I feel empowered to focus on these world issues and find effective ways to solve them even with limited resources and time. All it takes is just to think harder, and focus deeper. Hackathons at Yale and beyond have given me the perfect environment to design and implement ways to solve these problems.
